@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/chmp0940/LeetCode/tree/master/2050-count-good-numbers) |
+| [3830-find-closest-person](https://github.com/chmp0940/LeetCode/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
