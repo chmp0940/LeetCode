@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chmp0940/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0410-split-array-largest-sum](https://github.com/chmp0940/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -27,9 +28,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/chmp0940/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1656-count-good-triplets](https://github.com/chmp0940/LeetCode/tree/master/1656-count-good-triplets) |
 ## Enumeration
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/chmp0940/LeetCode/tree/master/1656-count-good-triplets) |
+## Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/chmp0940/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/chmp0940/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/chmp0940/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
