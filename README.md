@@ -20,7 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/chmp0940/LeetCode/tree/master/2050-count-good-numbers) |
-| [3830-find-closest-person](https://github.com/chmp0940/LeetCode/tree/master/3830-find-closest-person) |
+
 ## Recursion
 |  |
 | ------- |
@@ -29,12 +29,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/chmp0940/LeetCode/tree/master/0410-split-array-largest-sum) |
-| [1656-count-good-triplets](https://github.com/chmp0940/LeetCode/tree/master/1656-count-good-triplets) |
+|
 | [2626-count-the-number-of-good-subarrays](https://github.com/chmp0940/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
-## Enumeration
-|  |
-| ------- |
-| [1656-count-good-triplets](https://github.com/chmp0940/LeetCode/tree/master/1656-count-good-triplets) |
+
 ## Binary Search
 |  |
 | ------- |
