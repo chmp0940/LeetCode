@@ -4,22 +4,34 @@ public:
         int n = nums.size();
         map<int, int> mp;
         int s = 0;
-        long long count = 0, no = 0;
-
-        for (int e = 0; e < n; ++e) {
-            count += mp[nums[e]];
+        int e = 0;
+        int count = 0;
+        long long no = 0;
+        while (e < n && s < n) {
             mp[nums[e]]++;
 
-            while (count >= k) {
-                 cout << count << " " << s << e << " ";
+            count += mp[nums[e]] - 1;
+
+            if (count >= k) {
+                cout << count << " " << s << e << " ";
+
                 no += n - e;
+                count -= mp[nums[s]] - 1;
                 mp[nums[s]]--;
-                count -= mp[nums[s]];
+
                 s++;
                 cout << count << endl;
+                // e--;
+                    
+                count-=mp[nums[e]]-1;
+                mp[nums[e]]--;
+                e--;
+            
+                
+            
             }
+            e++;
         }
-
         return no;
     }
 };
